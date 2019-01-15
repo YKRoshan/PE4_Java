@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f2d86b9-e8dd-4c95-90ad-33f889b4dc3d" name="Default Changelist" comment="" />
+    <list default="true" id="4f2d86b9-e8dd-4c95-90ad-33f889b4dc3d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE4 Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PE4 Java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/CountOccurrencesOfCharTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Test/com/stackroute/pe4_test/CountOccurrencesOfCharTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/FindNameHarryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Test/com/stackroute/pe4_test/FindNameHarryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/FindOccurrencesOfWordTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Test/com/stackroute/pe4_test/FindOccurrencesOfWordTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/ReplaceAllDwithFandLwithTTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Test/com/stackroute/pe4_test/ReplaceAllDwithFandLwithTTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/SortWordsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Test/com/stackroute/pe4_test/SortWordsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/TransposeStringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Test/com/stackroute/pe4_test/TransposeStringTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CountOccurrencesOfChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe4/CountOccurrencesOfChar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FindNameHarry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe4/FindNameHarry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FindOccurrencesOfWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe4/FindOccurrencesOfWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReplaceAllDwithFandLwithT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe4/ReplaceAllDwithFandLwithT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SortWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe4/SortWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TransposeString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe4/TransposeString.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,34 +28,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/TransposeString.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe4/FindNameHarry.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+            <state relative-caret-position="60">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Test/TransposeStringTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe4/ReplaceAllDwithFandLwithT.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-              <folding>
-                <element signature="e#216#217#0" expanded="true" />
-                <element signature="e#271#272#0" expanded="true" />
-                <element signature="e#312#313#0" expanded="true" />
-                <element signature="e#349#350#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="75">
+              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/SortWords.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe4/SortWords.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+            <state relative-caret-position="60">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -54,6 +64,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -65,14 +78,18 @@
         <option value="$PROJECT_DIR$/Test/FindOccurrencesOfWordTest.java" />
         <option value="$PROJECT_DIR$/src/ReplaceAllDwithFandLwithT.java" />
         <option value="$PROJECT_DIR$/Test/ReplaceAllDwithFandLwithTTest.java" />
-        <option value="$PROJECT_DIR$/src/SortWords.java" />
         <option value="$PROJECT_DIR$/Test/SortWordsTest.java" />
         <option value="$PROJECT_DIR$/src/TransposeString.java" />
+        <option value="$PROJECT_DIR$/src/SortWords.java" />
         <option value="$PROJECT_DIR$/Test/TransposeStringTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe4/TransposeString.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe4/FindOccurrencesOfWord.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe4/ReplaceAllDwithFandLwithT.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe4/SortWords.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="716" />
     <option name="y" value="25" />
     <option name="width" value="650" />
@@ -83,8 +100,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -100,21 +115,54 @@
             <path>
               <item name="PE4 Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="PE4 Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PE4 Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PE4 Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PE4 Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PE4 Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pe4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PE4 Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PE4 Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="Test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PE4 Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PE4 Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+              <item name="pe4_test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547010505350" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547543602593" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../assignment-solution-step4" />
-    <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
@@ -123,6 +171,11 @@
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/Test/com/stackroute/pe4_test" />
+      <recent name="$PROJECT_DIR$/src/main" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -139,7 +192,7 @@
   </component>
   <component name="RunManager" selected="JUnit.TransposeStringTest">
     <configuration name="TransposeString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TransposeString" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe4.TransposeString" />
       <module name="PE4 Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -169,6 +222,7 @@
       <module name="PE4 Java" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="TransposeStringTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -242,7 +296,7 @@
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12290503" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2753392" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -271,34 +325,7 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/CountOccurrencesOfChar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-start-column="2" selection-end-line="9" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test/CountOccurrencesOfCharTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-          <folding>
-            <element signature="e#237#238#0" expanded="true" />
-            <element signature="e#305#306#0" expanded="true" />
-            <element signature="e#347#348#0" expanded="true" />
-            <element signature="e#392#393#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FindNameHarry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test/FindNameHarryTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/Test/com/stackroute/pe4_test/FindNameHarryTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
@@ -311,14 +338,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/FindOccurrencesOfWord.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test/FindOccurrencesOfWordTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/Test/com/stackroute/pe4_test/FindOccurrencesOfWordTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
@@ -331,7 +351,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test/ReplaceAllDwithFandLwithTTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/Test/com/stackroute/pe4_test/ReplaceAllDwithFandLwithTTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="25" column="45" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
@@ -344,14 +364,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ReplaceAllDwithFandLwithT.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test/SortWordsTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/Test/com/stackroute/pe4_test/SortWordsTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
           <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
@@ -364,30 +377,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TransposeString.java">
+    <entry file="file://$PROJECT_DIR$/src/main/Test/com/stackroute/pe4_test/TransposeStringTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test/TransposeStringTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/Test/com/stackroute/pe4_test/CountOccurrencesOfCharTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-          <folding>
-            <element signature="e#216#217#0" expanded="true" />
-            <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#312#313#0" expanded="true" />
-            <element signature="e#349#350#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="135">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SortWords.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe4/CountOccurrencesOfChar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe4/TransposeString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe4/FindOccurrencesOfWord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe4/FindNameHarry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe4/ReplaceAllDwithFandLwithT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe4/SortWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>

@@ -1,6 +1,13 @@
+/*
+* Write a program that sets up a String variable containing a paragraph of text of your choice.
+a. Extract the words from the text and sort them into alphabetical order.
+b. Display the sorted list of words.
+
+* */
+package com.stackroute.pe4;
+
 public class SortWords {
     public  String[] sortWords(String paragraph){
-        //String result = "";
         paragraph=paragraph.toLowerCase();
         String temp;
         String []words = paragraph.split(" ");
@@ -19,9 +26,4 @@ public class SortWords {
         }
         return words;
     }
-//    public static void main(String []args){
-//        String []result = sortWords("This is a paragraph");
-//        for(String element:result)
-//        System.out.print(element+" ");
-//    }
 }

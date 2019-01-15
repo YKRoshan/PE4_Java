@@ -1,3 +1,6 @@
+package com.stackroute.pe4_test;
+
+import com.stackroute.pe4.CountOccurrencesOfChar;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
